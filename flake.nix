@@ -21,6 +21,7 @@
       in
       {
         devShells.notebook = import ./notebooks { nixpkgs=pkgs; };
+        devShells.python = import ./scripts { nixpkgs=pkgs; };
       }
     );
 }

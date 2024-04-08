@@ -1,0 +1,7 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.72;2;19470101;20080423;Hygrograph nach Frankenberg;Feuchteregistrierung, konv.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.72;2;19900919;19921006;Lithium_Chlorid-Taupunktfühler;Feuchtemessung, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.72;2;19921007;20080423;HYGROMER MP300;Feuchtemessung, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.78;2;20080824;20140729;Feuchtesonde HMP45D;Feuchtemessung, elektr.;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.78;2;20140730;20240328;EE33;Feuchtemessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

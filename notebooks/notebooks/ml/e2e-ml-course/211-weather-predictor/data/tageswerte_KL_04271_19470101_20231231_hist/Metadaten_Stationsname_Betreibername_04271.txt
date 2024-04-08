@@ -1,0 +1,8 @@
+Stations_ID;Stationsname;Von_Datum;Bis_Datum
+  4271;Rostock-Warnemünde;19010101;
+
+Stations_ID;Betreibername;Von_Datum;Bis_Datum
+  4271;Wetterdienst;19010101;19491231
+  4271;Meteorologischer Dienst der DDR;19500101;19901231
+  4271;DWD;19910101;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

@@ -1,0 +1,5 @@
+Stations_ID;Stationsname;Geo. Laenge [Grad];Geo. Breite [Grad];Stationshoehe [m];Geberhoehe ueber Grund [m];Von_Datum;Bis_Datum;Geraetetyp Name;Messverfahren;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.72;;19510101;20080423;Schneepegel;Schneehöhenmessung, manuell;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.78;;20080424;20161231;Schneepegel;Schneehöhenmessung, manuell;eor;
+4271;Rostock-Warnemünde;12.08;54.18;4.78;2.3;20171108;20240328;Schneehöhensensor SHM 30;Schneehöhenmessung, elektr.;eor;
+generiert: 03.04.2024 --  Deutscher Wetterdienst  --

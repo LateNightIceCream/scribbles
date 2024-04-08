@@ -8,6 +8,10 @@ let
   requirements = ''
     numpy
     scipy
+    sympy
+    matplotlib
+    pandas
+    ipympl
     notebook==7.1.2
     ipython==8.22.2 
   '';
